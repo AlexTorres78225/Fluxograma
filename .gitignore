@@ -4,3 +4,5 @@
 *.db-wal
 *.db-shm
 .venv/
+fluxogramas/
+*.png
